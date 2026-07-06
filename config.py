@@ -6,4 +6,5 @@ load_dotenv()
 API_KEY = os.getenv("API_KEY")
 API_SECRET = os.getenv("API_SECRET")
 BASE_URL = os.getenv("BASE_URL")
+
 PAPER_TRADING = os.getenv("PAPER_TRADING", "True") == "True"

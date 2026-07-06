@@ -10,3 +10,22 @@ six==1.17.0
 tzdata==2026.2
 urllib3==2.7.0
 websocket-client==1.9.0
+
+
+
+
+
+# We'll build this like a professional trading system:
+
+# ✅ Module 1: Project setup
+# ✅ Module 2: Mock API (current)
+# ⏭️ Module 3: Logger
+# ⏭️ Module 4: Market data
+# ⏭️ Module 5: Order manager
+# ⏭️ Module 6: Portfolio manager
+# ⏭️ Module 7: Risk management
+# ⏭️ Module 8: Indicators (EMA, RSI, MACD, etc.)
+# ⏭️ Module 9: Strategy engine
+# ⏭️ Module 10: Trading engine
+# ⏭️ Module 11: Delta Exchange API integration
+# ⏭️ Module 12: WebSocket live price feed
